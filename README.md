@@ -47,15 +47,14 @@
 
 ---
 
-<summary>:zap: Most Used Languages</summary>
+<!-- <summary>:zap: Most Used Languages</summary> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysingh853&layout=compact)](https://github.com/ajaysingh853/github-readme-stats) -->
 <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysingh853&layout=compact"/>
 
 <br />
 <br />
----
 <!-- <details> -->
-  <summary>:zap: GitHub Stats</summary>
+  <!-- <summary>:zap: GitHub Stats</summary> -->
 
   <img align="left" alt="Ajay's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ajaysingh853&show_icons=true&hide_border=true" />
 
