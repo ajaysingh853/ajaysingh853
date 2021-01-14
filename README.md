@@ -51,6 +51,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysingh853&layout=compact)](https://github.com/ajaysingh853/github-readme-stats) -->
 <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysingh853&layout=compact"/>
 
+<br />
 <!-- <details> -->
   <summary>:zap: GitHub Stats</summary>
 
