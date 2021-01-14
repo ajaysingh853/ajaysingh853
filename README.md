@@ -52,6 +52,7 @@
 <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysingh853&layout=compact"/>
 
 <br />
+<br />
 <!-- <details> -->
   <summary>:zap: GitHub Stats</summary>
 
